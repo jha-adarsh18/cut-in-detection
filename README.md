@@ -59,7 +59,7 @@ You can play the generated video using any media player that supports AVI format
 
 Here is a sample of the cut-in detection video:
 
-<iframe src="https://drive.google.com/file/d/1LqoqeMfKTTDJrTSdpOEBCHqktmPxnpd_/view?usp=sharing" width="640" height="480"></iframe>
+[output_detection.mp4](https://drive.google.com/file/d/1LqoqeMfKTTDJrTSdpOEBCHqktmPxnpd_/view?usp=sharing)
 
 ## License
 

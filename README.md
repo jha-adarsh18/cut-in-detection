@@ -13,14 +13,12 @@ This project uses YOLOv8 for real-time object detection to identify and warn abo
 ## Installation
 
 1. Clone the repository:
-
     ```bash
     git clone https://github.com/yourusername/cut-in-detection.git
     cd cut-in-detection
     ```
 
 2. Install the required packages:
-
     ```bash
     pip install opencv-python-headless numpy ultralytics
     ```
@@ -30,7 +28,6 @@ This project uses YOLOv8 for real-time object detection to identify and warn abo
 ## Usage
 
 To run the script, use the following command:
-
     ```bash
     python script.py <image_directory>
     ```
@@ -38,7 +35,6 @@ To run the script, use the following command:
 Replace `<image_directory>` with the path to the directory containing your images.
 
 ### Example
-
     ```bash
     python script.py ./images
     ```
@@ -50,7 +46,6 @@ The output video will be saved as `output.avi` in the current directory. The vid
 ### Playing the Video
 
 You can play the generated video using any media player that supports AVI format. To play the video using VLC media player, use the following command:
-
     ```bash
     vlc output.avi
     ```

@@ -61,6 +61,4 @@ Here is a sample of the cut-in detection video:
 
 [output_detection.mp4](https://drive.google.com/file/d/1LqoqeMfKTTDJrTSdpOEBCHqktmPxnpd_/view?usp=sharing)
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

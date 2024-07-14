@@ -35,9 +35,8 @@ To run the script, use the following command:
 Replace `<image_directory>` with the path to the directory containing your images.
 
 ### Example
-    ```bash
     python script.py ./images
-    ```
+    
 
 ## Output
 
